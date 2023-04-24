@@ -1,0 +1,16 @@
+{
+  "name": "filter-map-reduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fmr.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "ts-node": "^10.9.1"
+  }
+}
